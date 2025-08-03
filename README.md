@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Hi, I'm Arti Chhabra
 
-<!--
-**archhabra/archhabra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎮 Software Engineer | ⚙️ Systems Architect 
+📍 Based in Vancouver, BC | 🌐 [LinkedIn](https://www.linkedin.com/in/arti-chhabra) | 📧 archhabra@gmail.com
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👩‍💻 About Me
+
+I'm a hands-on software engineer with **19+ years of experience** designing, building, and scaling **high-performance systems** across gaming, fintech, security, and publishing. I specialize in **C++ development**, **client-server architectures**, and **cloud-native services** powering products used by millions globally.
+
+---
+
+## 🔧 Tech Stack
+
+- **Languages**: C++, Python, Lua, Bash, SQL  
+- **Systems & Architecture**: Client-server, Cross-platform (Win/macOS/Linux), Mobile (iOS/Android), IoT  
+- **Cloud & DevOps**: AWS, Docker, Jenkins, CI/CD, Secure SDLC  
+- **Databases & APIs**: PostgreSQL, MySQL, Redis, RESTful APIs  
+- **Frameworks & Tools**: STL, Boost, wxWidgets, Protocol Buffers, Google Test  
+- **Other**: Multithreading, Networking, Real-time Systems, Performance Optimization
+
+
+---
+
+## 📌 What I'm Up To
+I am currently focussed on open source contribution. Started contributing on GODOT engine.
+
